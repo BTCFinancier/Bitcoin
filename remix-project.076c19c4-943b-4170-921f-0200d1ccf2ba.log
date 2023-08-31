@@ -1,0 +1,21 @@
+2023-08-30T23:38:35.187582Z	Cloning repository...
+2023-08-30T23:38:40.762707Z	From https://github.com/bitcoinfinancier/remix-project
+2023-08-30T23:38:40.763442Z	 * branch            40724ddee8945592e2e750b27b85eb984644a72a -> FETCH_HEAD
+2023-08-30T23:38:40.763632Z	
+2023-08-30T23:38:41.495753Z	HEAD is now at 40724dd Merge pull request #2 from bitcoinfinancier/dependabot/npm_and_yarn/openzeppelin/contracts-upgradeable-4.9.3
+2023-08-30T23:38:41.49664Z	
+2023-08-30T23:38:41.620608Z	
+2023-08-30T23:38:41.654307Z	Success: Finished cloning repository files
+2023-08-30T23:38:42.240794Z	No build command specified. Skipping build step.
+2023-08-30T23:38:42.241369Z	Note: No functions dir at /functions found. Skipping.
+2023-08-30T23:38:42.241571Z	Validating asset output directory
+2023-08-30T23:38:43.20802Z	Deploying your site to Cloudflare's global network...
+2023-08-30T23:38:50.562817Z	Uploading... (0/1585)
+2023-08-30T23:38:56.768101Z	Uploading... (529/1585)
+2023-08-30T23:38:56.837369Z	Uploading... (1057/1585)
+2023-08-30T23:38:57.275571Z	Uploading... (1585/1585)
+2023-08-30T23:38:57.276031Z	✨ Success! Uploaded 1585 files (7.42 sec)
+2023-08-30T23:38:57.276243Z	
+2023-08-30T23:38:58.073174Z	✨ Upload complete!
+2023-08-30T23:39:00.78787Z	Success: Assets published!
+2023-08-30T23:39:01.891799Z	Success: Your site was deployed!
