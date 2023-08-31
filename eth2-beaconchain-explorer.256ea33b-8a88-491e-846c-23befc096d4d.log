@@ -1,0 +1,21 @@
+2023-08-30T23:19:49.048947Z	Cloning repository...
+2023-08-30T23:19:51.308187Z	From https://github.com/bitcoinfinancier/eth2-beaconchain-explorer
+2023-08-30T23:19:51.308924Z	 * branch            c0397bdce204cbbf16b71d3a3a3779f5ba495e29 -> FETCH_HEAD
+2023-08-30T23:19:51.309119Z	
+2023-08-30T23:19:51.931159Z	HEAD is now at c0397bd Merge pull request #6 from bitcoinfinancier/snyk-upgrade-21649884e18004c07d66ad20307e9e7e
+2023-08-30T23:19:51.932074Z	
+2023-08-30T23:19:52.055079Z	
+2023-08-30T23:19:52.087775Z	Success: Finished cloning repository files
+2023-08-30T23:19:52.723533Z	No build command specified. Skipping build step.
+2023-08-30T23:19:52.724077Z	Note: No functions dir at /functions found. Skipping.
+2023-08-30T23:19:52.72428Z	Validating asset output directory
+2023-08-30T23:19:53.523379Z	Deploying your site to Cloudflare's global network...
+2023-08-30T23:19:56.91615Z	Uploading... (0/1208)
+2023-08-30T23:20:00.398518Z	Uploading... (403/1208)
+2023-08-30T23:20:01.175061Z	Uploading... (805/1208)
+2023-08-30T23:20:06.213411Z	Uploading... (1208/1208)
+2023-08-30T23:20:06.213867Z	✨ Success! Uploaded 1208 files (9.87 sec)
+2023-08-30T23:20:06.214084Z	
+2023-08-30T23:20:06.834554Z	✨ Upload complete!
+2023-08-30T23:20:09.348446Z	Success: Assets published!
+2023-08-30T23:20:10.428017Z	Success: Your site was deployed!
